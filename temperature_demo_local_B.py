@@ -1,4 +1,4 @@
-# Assignment 2 - Prompt Engineering
+#  - Prompt Engineering
 # Generate responses to the prompt using different temperature values
 
 from transformers import pipeline, set_seed

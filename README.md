@@ -1,5 +1,5 @@
 # prompt-engineering1
-# Prompt Engineering :- Temperature Demo
+# Prompt Engineering : Temperature Demo
 
 a Python program that generates text using GPT-2 at different "temperature" values, to observe how temperature affects the randomness/creativity of a language model's output.
 

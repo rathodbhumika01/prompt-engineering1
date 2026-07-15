@@ -19,7 +19,7 @@ python temperature_demo_local_B.py
 
 
 ## Observation
-As temperature increases, the output becomes less predictable:
+As temperature increases, the output becomes less predictable.
 0.2 : stays closest to the topic, most focused/coherent
 0.7–1.0 : starts adding unrelated details but stays fluent
 1.5 : most random, trails into unrelated/incomplete ideas
